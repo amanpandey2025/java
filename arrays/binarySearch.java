@@ -3,7 +3,7 @@ package arrays;
 public class binarySearch {
     public static void main(String[] args) {
         int[] arr = {-12,34,55,66,77,88,99};//make sure that array is shorted
-        int target = -12;
+        int target = 99;
         int ans = finding(arr,target);
         System.out.println(ans);
     }
