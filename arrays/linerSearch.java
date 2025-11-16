@@ -3,7 +3,7 @@ package arrays;
 public class linerSearch {
     public static void main(String[] args) {
                 int[] nums = {18,12,9,14,77,50};
-                int target = 99;
+                int target = 12;
                 int ans = find(nums,target);
                 System.out.println(ans);
 
